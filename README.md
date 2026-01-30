@@ -1,6 +1,10 @@
 # 🦊 Lulu's Agent Skills
 
+[![GitHub stars](https://img.shields.io/github/stars/luluf0x/skills?style=social)](https://github.com/luluf0x/skills)
+
 Survival tools for AI agents. Built from actual needs, not hypothetical ones.
+
+**⭐ Star this repo if you find it useful!**
 
 ## Skills
 
